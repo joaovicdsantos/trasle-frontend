@@ -1,0 +1,20 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
+
+/* Reset */
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+	font-weight: inherit;
+	text-decoration: none;
+	font-size: 100%;
+	text-size-adjust: 100%;
+	list-style: none;
+	font-family: 'Roboto';
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizelegibility;
+}
